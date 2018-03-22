@@ -1,0 +1,10 @@
+<mahasiswa>
+  	<data nim="15.01.53.0114">
+  		<nama>Septi Dwi Cahyanti</nama>
+		<progdi>Teknik Informatika</progdi>
+ 	 	<alamat>Tambak Aji rt 10 rw 12 Ngaliyan Semarang</alamat>
+  		<agama>Islam</agama>
+  		<tgllahir>01/09/1996</tgllahir>
+		<telp>089626881046</telp>
+	</data>
+</mahasiswa>
